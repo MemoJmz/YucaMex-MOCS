@@ -7,15 +7,15 @@ This repository includes a link to nine videos that are part of a new database f
 
 | **Name** | **Duration (min:seg)** |
 |----------|--------------|
-| DJI_0027 | 6:49         |
-| DJI_0089 | 5:27         |
-| DJI_0362 | 5:27         |
-| DJI_0597 | 3:10         |
-| DJI_0614 | 4:50         |
-| DJI_0674 | 9:41         |
-| DJI_0861 | 4:16         |
-| DJI_0883 | 4:50         |
-| DJI_4040 | 5:28         |
+| DJI_0027 |     6:49     |
+| DJI_0089 |     5:27     |
+| DJI_0362 |     5:27     |
+| DJI_0597 |     3:10     |
+| DJI_0614 |     4:50     |
+| DJI_0674 |     9:41     |
+| DJI_0861 |     4:16     |
+| DJI_0883 |     4:50     |
+| DJI_4040 |     5:28     |
   
 The set of classes of interest correspond to *car, truck, bus, combi, motorcycle, bike, mototaxi* and *pedestrian*. It is worth mentioning that there are three particular classes: cars correspond to sedan or hatchback type vehicles; mototaxi are vehicles from the Yucatan region, Mexico; and trucks represent the class with the most varied vehicles, as they include vans with open cabins, with closed cabins or cargo boxes, tortons, and trailers.
 
