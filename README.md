@@ -17,7 +17,7 @@ This repository includes a link to nine videos that are part of a new database f
 | DJI_0883 |     4:50     |
 | DJI_4040 |     5:28     |
   
-The set of classes of interest correspond to *car, truck, bus, combi, motorcycle, bike, mototaxi* and *pedestrian*. It is worth mentioning that there are three particular classes: cars correspond to sedan or hatchback type vehicles; mototaxi are vehicles from the Yucatan region, Mexico; and trucks represent the class with the most varied vehicles, as they include vans with open cabins, with closed cabins or cargo boxes, tortons, and trailers.
+The set of classes of interest correspond to *car, truck, bus, combi, motorcycle, bike, mototaxi* and *pedestrian*. It is worth mentioning that there are three particular classes: cars correspond to sedan or hatchback type vehicles; mototaxi are vehicles from the Yucatan region; and trucks represent the class with the most varied vehicles, as they include vans with open cabins, with closed cabins or cargo boxes, tortons, and trailers.
 
 
 
