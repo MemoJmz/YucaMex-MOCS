@@ -29,8 +29,8 @@ The set of classes of interest correspond to *car, truck, bus, combi, motorcycle
 **segments**: Folder with 18 text files. Each contains the segment that defines the test with the name of the text file. The segment contained in each file has the following format:
 
 ```
-$v_1$
-$x_1 y_1$
-$x_2 y_2$
+v1
+x1 y1
+x2 y2
 ```
 where $v_1$ is the number of segments in the file, this value is always one; $x_1$, $y_1$ are the coordinates of one end of the segment; and $x_2$, $y_2$ are those of the other end.
