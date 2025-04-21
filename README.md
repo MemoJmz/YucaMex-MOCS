@@ -2,7 +2,7 @@
 MOCS: Multiple Object Counting from a Segment (Dataset)
 
 ## Contents:
-- [segments] ()
+- [segments] (https://github.com/MemoJmz/YucaMex-MOCS/tree/main/segments)
 
 Drive: [MOCS] (https://drive.google.com/drive/folders/1YVGlVsPAl3SQ8JR8c0tZG43__tlkzOqA?usp=sharing)
 
@@ -22,15 +22,12 @@ This repository includes a link to nine videos that are part of a new database f
   
 The set of classes of interest correspond to *car, truck, bus, combi, motorcycle, bike, mototaxi* and *pedestrian*. It is worth mentioning that there are three particular classes: cars correspond to sedan or hatchback type vehicles; mototaxi are vehicles from the Yucatan region; and trucks represent the class with the most varied vehicles, as they include vans with open cabins, with closed cabins or cargo boxes, tortons, and trailers.
 
+### Contents:
 
-Contents:
-
-**segments**: Folder with txt files containing five numeric values:
-`
-V_1
-X_1 Y_1
-X_2 Y_2
-`
-where V_1
-
-
+**segments**: Folder with 18 text files. Each contains the segment that defines the test with the name of the text file. The segment contained in each file has the following format:
+$$
+v_1
+x_1 y_1
+x_2 y_2
+$$
+where $v_1$ is the number of segments in the file, this value is always one; $x_1$, $y_1$ are the coordinates of one end of the segment; and $x_2$, $y_2$ are those of the other end.
