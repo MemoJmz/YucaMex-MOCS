@@ -1,10 +1,12 @@
 # YucaMex-MOCS
 MOCS: Multiple Object Counting from a Segment (Dataset)
 
-## Contents:
+Drive: [MOCS] (https://drive.google.com/drive/folders/1YVGlVsPAl3SQ8JR8c0tZG43__tlkzOqA?usp=sharing)
+
+## Content:
 - [segments] (https://github.com/MemoJmz/YucaMex-MOCS/tree/main/segments)
 
-Drive: [MOCS] (https://drive.google.com/drive/folders/1YVGlVsPAl3SQ8JR8c0tZG43__tlkzOqA?usp=sharing)
+## Description:
 
 This repository includes a link to nine videos that are part of a new database for multiple object counting with a segment. The videos were captured by a drone positioned between 30 and 70 meters above road intersections in several cities in Yucatan, Mexico. The size of each video is equal to 3840x2160 pixels (width x heigth). All of the above videos were stored at a speed of 29.97 frames/second. We list the videos and their duration in the following table:
 
