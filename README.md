@@ -3,7 +3,7 @@ MOCS: Multiple Object Counting from a Segment (Dataset)
 
 Drive: [MOCS] (https://drive.google.com/drive/folders/1YVGlVsPAl3SQ8JR8c0tZG43__tlkzOqA?usp=sharing)
 
-**Adding a the output videos with the stabilization method based on characteristic points**
+**The output videos were added using the stabilization method based on characteristic points**
 
 Drive: (https://drive.google.com/drive/folders/13ohu8HSdDd24X9-019nDpvkCYdQmHURK?usp=drive_link)
 
