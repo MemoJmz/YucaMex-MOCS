@@ -41,8 +41,12 @@ where $v_1$ is the number of segments in the file, this value is always one; $x_
 
 ### Cite this work:
 
+If you use YucaMex-MOCS in your research, please use the following entry:
+```
 Jiménez-Frías, G.A., Hernandez-Lopez, F.J., Batard, T., Forti-Sosa, S., Pérez-Pech, E. (2025). Automatic Counting System in a Region of Interest from Videos Taken by Drones. In: López-Monroy, A.P., Rosales-Pérez, A., Carrasco-Ochoa, J.A., Martínez-Trinidad, J.F., Olvera-López, J.A. (eds) Pattern Recognition. MCPR 2025. Lecture Notes in Computer Science, vol 15715. Springer, Cham. https://doi.org/10.1007/978-3-031-96255-4_18
-
+```
+or BibTeX entry:
+```
 @InProceedings{10.1007/978-3-031-96255-4_18,
 author="Jim{\'e}nez-Fr{\'i}as, Guillermo A.
 and Hernandez-Lopez, Francisco J.
@@ -63,6 +67,6 @@ pages="191--200",
 abstract="Implementing road infrastructure projects to improve connectivity and communication in developing countries begins with traffic flow statistics for better planning. This article presents an automatic counting system in videos taken by drones from a segment of interest and a dataset explicitly designed for this task. The input to the system consists of the video and the segment given by the user; the output is a table with the count of eight classes of relevant objects in the Yucatan area: car, truck, bus, combi, motorcycle, bike, mototaxi and pedestrian. The counting system has sequentially integrated modules that perform the tasks of detection, tracking, and counting, respectively. First, the detection module uses a fine-tuned and trained YOLOv4 model. Then, the tracking module uses the Intersection over Union method. Finally, the counting module selects those that have crossed the segment of interest from the tracked objects for the first time. The system reports a weighted average accuracy of {\$}{\$}80.38{\backslash}{\%}{\$}{\$}80.38{\%}.",
 isbn="978-3-031-96255-4"
 }
-
+```
 
 
